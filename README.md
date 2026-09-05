@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adarsh Jeethri 👋
 
-<!--
-**jeethriAdarsh18/jeethriAdarsh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- Data Science
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+🔭 Currently working on:
+- AI/ML projects
+- Computer Vision projects
+- Building practical solutions using data and AI
+
+🛠️ Skills:
+Python  Machine Learning | Deep Learning | Data Science | Computer Vision
+
+🎯 Goal:
+To build strong practical skills in AI/ML and develop industry-relevant projects.
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/adarshjeethri/
